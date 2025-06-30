@@ -8,3 +8,9 @@ for ch in str:
         c+=1
 print("Vowels: ",v)
 print("Consonants: ",c)
+
+#output
+# Enter a string: Python Dev Community
+# Vowels:  5
+# Consonants:  15
+

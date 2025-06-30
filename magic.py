@@ -13,3 +13,12 @@ if sum % 3 == 0 and sum % 5 == 0:
 else:
     print(num, "is not a MAGIC NUMBER")
 
+
+# OUTPUT
+# Enter any number: 555
+# You entered: 555
+# 555 is a MAGIC NUMBER
+
+# Enter any number: 1234
+# You entered: 1234
+# 1234 is not a MAGIC NUMBER

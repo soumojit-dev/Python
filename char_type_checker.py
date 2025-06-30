@@ -12,3 +12,16 @@ elif(ch in '$!@#&'):
     print('SPECIAL CHARACTER IDENTIFIED!')
 else:
     print("UNIDENTIED CHARACTER!")
+
+#OUTPUT
+# Enter a character: HELLO
+# HELLO
+# -----CHARACTER TYPE CHECKER-----
+
+# UPPERCASE CHARACTER IDENTIFIED!
+
+# Enter a character: @
+# @
+# -----CHARACTER TYPE CHECKER-----
+
+# SPECIAL CHARACTER IDENTIFIED!
