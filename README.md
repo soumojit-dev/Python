@@ -15,6 +15,44 @@ Whether you're just getting started with Python or looking to polish your advanc
 - Pattern Printing
 - Number Operations (e.g., reverse, palindrome, factorial)
 
+📄 Program List (with Descriptions)
+
+1. char_type_checker.py
+- Checks if an entered character is uppercase, lowercase, digit, or special character.
+
+2. count_digits.py
+- Counts the total number of digits in a number.
+
+3. factorial.py
+- Calculates the factorial of a number using a loop.
+
+4. fibonacci.py
+- Prints the Fibonacci series up to N terms.
+
+5. magic.py
+- Checks whether a number is a "magic number" (sum of digits divisible by 3 and 5).
+
+6. multiplication_table.py
+- Generates a multiplication table for a given number.
+
+7. natural_num_sum.py
+- Calculates the sum of the first N natural numbers.
+
+8. num_rev.py
+- Reverses the digits of a given number.
+
+9. prime.py
+- Checks whether a given number is a prime number.
+
+10. simple_calculator.py
+- Performs basic arithmetic operations based on user choice.
+
+11. str_rev.py
+- Reverses a string using a loop.
+
+12. vowels_str.py
+- Counts the number of vowels in a given string.
+
 🧠 Who This Is For
 - 💻 Students starting with Python from scratch
 - 🛠️ Developers brushing up on syntax or logic
