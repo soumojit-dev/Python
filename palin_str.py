@@ -15,7 +15,7 @@ if(isPalin):
 else:
     print("Not a PALINDROME WORD")
 
-# OUTPUT
+# TEST CASES
 # Enter a string: radar
 # PALINDROME WORD
 

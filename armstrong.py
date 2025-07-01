@@ -22,7 +22,7 @@ else:
     print(num,"is not an Armstrong number")
 
 
-# OUTPUT
+# TEST CASES
 # Enter any number: 153
 # 153 is an Armstrong number
 

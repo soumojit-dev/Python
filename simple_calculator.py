@@ -6,7 +6,7 @@ print("Multiplication of",num1,"and",num2,"is: ",num1*num2)
 print("Division of",num1,"and",num2,"is: ",num1/num2)
 
 
-#OUTPUT
+# TEST CASES
 # Addition of 24 and 2 is:  26
 # Subtraction of 24 and 2 is:  22
 # Multiplication of 24 and 2 is:  48        

@@ -8,7 +8,7 @@ num1 = num1 - num2
 
 print("After swapping, A =",num1,'and B =',num2)
 
-# Output
+# TEST CASES
 # Enter the first number (A): 24
 # Enter the second number (B): 56
 # After swapping, A = 56 and B = 24

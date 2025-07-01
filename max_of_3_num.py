@@ -11,7 +11,7 @@ else:
     largest = num3
 print("The largest number is:", largest)
 
-# OUTPUT
+# TEST CASES
 # Enter the first number: 25
 # Enter the second number: 78
 # Enter the third number: 16

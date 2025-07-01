@@ -8,7 +8,7 @@ while(i<=n):
     i+=1
 print('Factorial of',n,'is',fact)
 
-# Output
+# TEST CASES
 # Enter any number: 7
 # Factorial of 7 is 5040
 # PS C:\Users\user\Documents\GitHub\Python> 

@@ -9,7 +9,7 @@ for ch in str:
 print("Vowels: ",v)
 print("Consonants: ",c)
 
-#output
+# TEST CASES
 # Enter a string: Python Dev Community
 # Vowels:  5
 # Consonants:  15

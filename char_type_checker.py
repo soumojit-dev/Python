@@ -13,7 +13,7 @@ elif(ch in '$!@#&'):
 else:
     print("UNIDENTIED CHARACTER!")
 
-#OUTPUT
+#TEST CASES
 # Enter a character: HELLO
 # HELLO
 # -----CHARACTER TYPE CHECKER-----

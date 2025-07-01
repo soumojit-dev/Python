@@ -7,6 +7,6 @@ while(n!=0):
     count+=1
 print("Number of digits in",n,": ",count)
 
-#output
+#TEST CASES
 # Enter any number9865421
 # Number of digits in 0 :  7

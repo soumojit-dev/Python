@@ -5,7 +5,7 @@ if((year%4==0) and (year%100!=0) or (year%400==0)): #CONDITION FOR LEAP YEAR CHE
 else:
     print(year,'is not a LEAP YEAR!')
 
-#OUTPUT
+# TEST CASES
 # Enter any Year: 2025
 # 2025 is not a LEAP YEAR!
 

@@ -11,7 +11,7 @@ else:
     print(n,'is a PRIME NUMBER')
 
 
-#OUTPUT
+# TEST CASES
 # Enter a number: 11
 # 11 is a PRIME NUMBER
 

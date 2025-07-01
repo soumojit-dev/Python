@@ -17,7 +17,7 @@ print('Reversed string is:',rev)
 # | `'e'` | `'e' + 'lppa'`   | `"elppa"`                      |
 
 
-#OUTPUT
+# TEST CASES
 # Enter a sentence: Hello Python Developers!
 # Hello Python Developers!
 # Reversed string is: !srepoleveD nohtyP olleH

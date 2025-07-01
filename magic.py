@@ -14,7 +14,7 @@ else:
     print(num, "is not a MAGIC NUMBER")
 
 
-# OUTPUT
+# TEST CASES
 # Enter any number: 555
 # You entered: 555
 # 555 is a MAGIC NUMBER

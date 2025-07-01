@@ -4,7 +4,7 @@ print('Table of',n,':')
 for i in range(1,11):
     print(n,'X',i,'=',n*i)
 
-#OUTPUT
+# TEST CASES
 # Enter any number: 5
 # 5
 # Table of 5 :

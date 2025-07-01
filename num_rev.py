@@ -8,6 +8,6 @@ while(num!=0):
     num//=10
 print('Reversed Number:',rev)
 
-#OUTPUT
+# TEST CASES
 # Enter any number: 19452
 # Reversed Number: 25491

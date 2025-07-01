@@ -13,7 +13,7 @@ for i in range(2, n):
     b = c
 
 
-# OUTPUT
+# TEST CASES
 # Enter how many terms you want: 10
 # Fibonacci Series:
 # 0
