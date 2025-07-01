@@ -41,6 +41,12 @@ Whether you're just getting started with Python or looking to polish your advanc
 - Reverses a string using a loop.
 12. vowels_str.py
 - Counts the number of vowels in a given string.
+13. leap_year.py
+- Checks whether a given year is a leap year or not
+14. palin_str.py
+- Checks whether a given string is a Palindrome or not
+15. swap_using_2_var.py
+- swaps two numbers without using third variable (Unique approach)
 
 🧠 Who This Is For
 - 💻 Students starting with Python from scratch
