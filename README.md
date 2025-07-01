@@ -41,6 +41,11 @@ Whether you're just getting started with Python or looking to polish your advanc
 - Reverses a string using a loop.
 12. vowels_str.py
 - Counts the number of vowels in a given string.
+13. armstrong.py
+- Checks whether a number is an Armstrong number or not.
+14. max_of_3_num.py
+- Finds the maximum of three numbers.
+
 
 🧠 Who This Is For
 - 💻 Students starting with Python from scratch
