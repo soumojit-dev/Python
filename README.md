@@ -45,7 +45,12 @@ Whether you're just getting started with Python or looking to polish your advanc
 - Checks whether a number is an Armstrong number or not.
 14. max_of_3_num.py
 - Finds the maximum of three numbers.
-
+15. leap_year.py
+- Checks whether a given year is a leap year or not
+16. palin_str.py
+- Checks whether a given string is a Palindrome or not
+17. swap_using_2_var.py
+- swaps two numbers without using third variable (Unique approach)
 
 🧠 Who This Is For
 - 💻 Students starting with Python from scratch
