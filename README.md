@@ -51,6 +51,8 @@ Whether you're just getting started with Python or looking to polish your advanc
 - Checks whether a given string is a Palindrome or not
 17. swap_using_2_var.py
 - swaps two numbers without using third variable (Unique approach)
+18. create_list.py
+- Creates a list and prints the list elements (user input taken)
 
 🧠 Who This Is For
 - 💻 Students starting with Python from scratch
