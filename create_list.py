@@ -2,7 +2,7 @@ lst = []
 num = int(input("Enter number of elements: "))
 
 for i in range(num):
-    ele = int(input(f"Enter element {i+1}: ")) #f (f-string) in Python — it's just a convenient and modern way to insert variables into strings.
+    ele = int(input(f"Enter element {i+1}: ")) #f-string in Python — it's just a convenient and modern way to insert variables into strings.
     lst.append(ele) #adds elements
 
 print("The List: ",lst) #prints the list
