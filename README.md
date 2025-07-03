@@ -59,6 +59,8 @@ Whether you're just getting started with Python or looking to polish your advanc
 - performs linear search on a list
 21. list_concat_element_wise.py
 - concatenates two lists element-wise (user defined functions)
+22. freq_ele_list.py
+- counts occurence of an element in a list
 
 🧠 Who This Is For
 - 💻 Students starting with Python from scratch
