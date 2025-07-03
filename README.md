@@ -55,7 +55,8 @@ Whether you're just getting started with Python or looking to polish your advanc
 - Creates a list and prints the list elements (user input taken)
 19. list_swap_elements.py
 - interchanges elements of a list using negative indexing (user defined functions)
-
+20. linear_search_list.py
+- performs linear search on a list
 
 🧠 Who This Is For
 - 💻 Students starting with Python from scratch
