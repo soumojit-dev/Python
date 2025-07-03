@@ -57,6 +57,8 @@ Whether you're just getting started with Python or looking to polish your advanc
 - interchanges elements of a list using negative indexing (user defined functions)
 20. linear_search_list.py
 - performs linear search on a list
+21. list_concat_element_wise.py
+- concatenates two lists element-wise (user defined functions)
 
 🧠 Who This Is For
 - 💻 Students starting with Python from scratch
