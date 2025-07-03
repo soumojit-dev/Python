@@ -18,7 +18,6 @@ def create_list(): #FUNCTION FOR LIST CREATION
     return new_lst
 
 new_lst = create_list()
-
 print("Original List:\n",new_lst)
 
 swapped_lst = swap(new_lst)
