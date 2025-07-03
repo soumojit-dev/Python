@@ -53,6 +53,9 @@ Whether you're just getting started with Python or looking to polish your advanc
 - swaps two numbers without using third variable (Unique approach)
 18. create_list.py
 - Creates a list and prints the list elements (user input taken)
+19. list_swap_elements.py
+- interchanges elements of a list using negative indexing (user defined functions)
+
 
 🧠 Who This Is For
 - 💻 Students starting with Python from scratch
