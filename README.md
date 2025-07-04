@@ -61,6 +61,10 @@ Whether you're just getting started with Python or looking to polish your advanc
 - concatenates two lists element-wise (user defined functions)
 22. freq_ele_list.py
 - counts occurence of an element in a list
+23. list.rev.py
+- prints reverse of a list
+24. list_to_string.py
+- converts list items into a single string with spaces in between the items (manually)
 
 🧠 Who This Is For
 - 💻 Students starting with Python from scratch
