@@ -75,6 +75,8 @@ Whether you're just getting started with Python or looking to polish your advanc
 - matrix creation using nested list and displayed ROW WISE (code explained)
 29. matrix_min_max_ele.py
 - finds maximum & minimum element by flattening (flat()) the NESTED LIST (mannually)
+30. matrix_transpose_nested_list.py
+- tranposes the original matrix (user input taken)
 
 🧠 Who This Is For
 - 💻 Students starting with Python from scratch
