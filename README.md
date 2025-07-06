@@ -69,6 +69,8 @@ Whether you're just getting started with Python or looking to polish your advanc
 - converts all elements of a list to uppercase using 'LIST COMPREHENSION'
 26. list_slice_substitute.py
 - substitutes/replaces list element using slicing (Algorithm included)
+27. nested_list_user_input.py
+- creates an empty list to store marks of all students (a list of lists) (code explained)
 
 🧠 Who This Is For
 - 💻 Students starting with Python from scratch
