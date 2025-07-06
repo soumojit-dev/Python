@@ -73,6 +73,8 @@ Whether you're just getting started with Python or looking to polish your advanc
 - creates an empty list to store marks of all students (a list of lists) (code explained)
 28. nested_list_matrix_create.py
 - matrix creation using nested list and displayed ROW WISE (code explained)
+29. matrix_min_max_ele.py
+- finds maximum & minimum element by flattening (flat()) the NESTED LIST (mannually)
 
 🧠 Who This Is For
 - 💻 Students starting with Python from scratch
