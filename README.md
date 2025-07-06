@@ -71,6 +71,8 @@ Whether you're just getting started with Python or looking to polish your advanc
 - substitutes/replaces list element using slicing (Algorithm included)
 27. nested_list_user_input.py
 - creates an empty list to store marks of all students (a list of lists) (code explained)
+28. nested_list_matrix_create.py
+- matrix creation using nested list and displayed ROW WISE (code explained)
 
 🧠 Who This Is For
 - 💻 Students starting with Python from scratch
