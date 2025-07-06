@@ -67,6 +67,8 @@ Whether you're just getting started with Python or looking to polish your advanc
 - converts list items into a single string with spaces in between the items (manually)
 25. list_to_uppercase.py
 - converts all elements of a list to uppercase using 'LIST COMPREHENSION'
+26. list_slice_substitute.py
+- substitutes/replaces list element using slicing (Algorithm included)
 
 🧠 Who This Is For
 - 💻 Students starting with Python from scratch
