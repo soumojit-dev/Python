@@ -24,7 +24,7 @@ swapped_lst = swap(new_lst)
 print("List after swapping first & last element:\n ",swapped_lst)
 
 
-# TEST CASES
+# TEST CASE
 # Enter number of elements in the list: 5
 # Enter element 1: 23
 # Enter element 2: 45
