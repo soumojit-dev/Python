@@ -77,6 +77,8 @@ Whether you're just getting started with Python or looking to polish your advanc
 - finds maximum & minimum element by flattening (flat()) the NESTED LIST (mannually)
 30. matrix_transpose_nested_list.py
 - tranposes the original matrix (user input taken)
+31. list_stack_op.py
+- stack operations using list and loop (MENU DRIVEN OPERATIONS)
 
 🧠 Who This Is For
 - 💻 Students starting with Python from scratch
