@@ -16,7 +16,8 @@ print("Tuple:",tup)
 search = input(f"Enter the Search Value:")
 
 if search in tup:
-    print(search,"is present in the Tuple")
+    index = tup.index(search)  #FINDS THE INDEX OF THE SEARCH VALUE USING "index()'
+    print(f"{search} is present at {index} index in the Tuple")
 else:
     print("INVALID SEARCH VALUE")
 
