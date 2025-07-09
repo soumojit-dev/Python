@@ -78,9 +78,9 @@ Whether you're just getting started with Python or looking to polish your advanc
 30. matrix_transpose_nested_list.py
 - tranposes the original matrix (user input taken)
 31. list_stack_op.py
-- stack operations using list and loop (MENU DRIVEN OPERATIONS)
+- stack operations using list and loop (MENU DRIVEN OPERATIONS) (USER INPUT)
 32. list_queue_op.py
-- queue operations using list using USER-DEFINED FUNCTIONS (MENU DRIVEN OPERATIONS)
+- queue operations using list using USER-DEFINED FUNCTIONS (MENU DRIVEN OPERATIONS) (USER INPUT)
 
 🧠 Who This Is For
 - 💻 Students starting with Python from scratch
