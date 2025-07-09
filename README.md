@@ -83,6 +83,8 @@ Whether you're just getting started with Python or looking to polish your advanc
 - queue operations using list using USER-DEFINED FUNCTIONS (MENU DRIVEN OPERATIONS) (USER INPUT)
 33. tuple_search.py
 - simple program that demonstrates Tuple creation from a LIST using USER DEFINED FUNCTION and also the program searches for a specific item in the TUPLE
+34. tuple_rev.py
+- reverses the original tuple using SLICING 
 
 🧠 Who This Is For
 - 💻 Students starting with Python from scratch
