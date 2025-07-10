@@ -85,6 +85,12 @@ Whether you're just getting started with Python or looking to polish your advanc
 - simple program that demonstrates Tuple creation from a LIST using USER DEFINED FUNCTION and also the program searches for a specific item in the TUPLE and FINDS THE INDEX OF THE SEARCH VALUE USING "index()'
 34. tuple_rev.py
 - reverses the original tuple using SLICING 
+35. tuple_items_identical_check.py
+- checks whether all the elements in the tuple are same or not 
+36. tuple_copy_specific_items.py
+- copies particular elements from one tuple to another tuple (user input)
+37. tuple_unpacking.py
+- demonstrates unpacking into 3 variable and 2 variable using * operator
 
 🧠 Who This Is For
 - 💻 Students starting with Python from scratch
