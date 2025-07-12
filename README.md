@@ -93,6 +93,8 @@ Whether you're just getting started with Python or looking to polish your advanc
 - demonstrates unpacking into 3 variable and 2 variable using * operator
 38. tuple_nested_highest marks.py
 - nested tuple finds the highest marks scored by a student using max() with key= lambda
+39. tuple_nest_sort_by_roll.py
+- ascending & descending order sorting using key= lambda
 
 
 🧠 Who This Is For
