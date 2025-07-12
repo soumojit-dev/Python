@@ -95,6 +95,8 @@ Whether you're just getting started with Python or looking to polish your advanc
 - nested tuple finds the highest marks scored by a student using max() with key= lambda
 39. tuple_nest_sort_by_roll.py
 - ascending & descending order sorting using key= lambda
+40. tuple_nested_stud_rec.py
+- store each student's data in this format: (name, roll, marks1, marks2, marks3)Perform the following: i) sorting by roll numbers ii) sorting by total marks (highest -> lowest)
 
 
 🧠 Who This Is For
