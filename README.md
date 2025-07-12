@@ -91,6 +91,9 @@ Whether you're just getting started with Python or looking to polish your advanc
 - copies particular elements from one tuple to another tuple (user input)
 37. tuple_unpacking.py
 - demonstrates unpacking into 3 variable and 2 variable using * operator
+38. tuple_nested_highest marks.py
+- nested tuple finds the highest marks scored by a student using max() with key= lambda
+
 
 🧠 Who This Is For
 - 💻 Students starting with Python from scratch
