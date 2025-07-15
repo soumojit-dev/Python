@@ -105,6 +105,8 @@ Whether you're just getting started with Python or looking to polish your advanc
 - performs set update() operations : symmetric_difference_update(), differnce_update(), intersection_update()
 44. frozen_set_ops.py
 - performs FROZEN SET(immutable) operations : union, differnce, symmetric diffrenece, intersection
+45. dict_key_search.py
+- creates a student dictionary and searches for a student's marks by name (user input)
 
 🧠 Who This Is For
 - 💻 Students starting with Python from scratch
