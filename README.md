@@ -99,13 +99,19 @@ Whether you're just getting started with Python or looking to polish your advanc
 - store each student's data in this format: (name, roll, marks1, marks2, marks3)Perform the following: i) sorting by roll numbers ii) sorting by total marks (highest -> lowest)
 41. day_name.py
 - gets the Day's name given the date of a specific month and year (using datetime module)
+42. set_op.py
+- set operations : union, intersection, difference, symmetric difference, Common Elements in Two and Three Sets, Check Subset Relationship, Unique Words in a sentence (using split()), Set to List and List to Set Conversion
+43. set_update_ops.py
+- performs set update() operations : symmetric_difference_update(), differnce_update(), intersection_update()
+44. frozen_set_ops.py
+- performs FROZEN SET(immutable) operations : union, differnce, symmetric diffrenece, intersection
+
 🧠 Who This Is For
 - 💻 Students starting with Python from scratch
 - 🛠️ Developers brushing up on syntax or logic
 - 🎯 Competitive programming learners (upcoming additions)
 - 🤖 AI/ML enthusiasts (upcoming additions)
-42. set_op.py
-- set operations : union, intersection, difference, symmetric difference, Common Elements in Two and Three Sets, Check Subset Relationship, Unique Words in a sentence (using split()), Set to List and List to Set Conversion
+
 🤝 Contributing
 Want to add your own Python programs?
 Feel free to fork the repo and raise a pull request! 🚀
