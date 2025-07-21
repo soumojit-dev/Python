@@ -111,6 +111,8 @@ Whether you're just getting started with Python or looking to polish your advanc
 - merges 2 dictionaries using copy() and update() (user input taken)
 47. dict_word_freq_sentence.py
 - counts frequency of each word in a sentence using dictionary (user input taken)
+48. dict_sort_values_keys.py
+- sorting dictionary based on keys & values using 'key=lambda' (user input taken)
 
 🧠 Who This Is For
 - 💻 Students starting with Python from scratch
