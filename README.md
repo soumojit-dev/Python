@@ -107,6 +107,8 @@ Whether you're just getting started with Python or looking to polish your advanc
 - performs FROZEN SET(immutable) operations : union, differnce, symmetric diffrenece, intersection
 45. dict_key_search.py
 - creates a student dictionary and searches for a student's marks by name (user input)
+46. dict_merge.py
+- merges 2 dictionaries using copy() and update() (user input taken)
 
 🧠 Who This Is For
 - 💻 Students starting with Python from scratch
