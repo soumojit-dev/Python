@@ -113,6 +113,8 @@ Whether you're just getting started with Python or looking to polish your advanc
 - counts frequency of each word in a sentence using dictionary (user input taken)
 48. dict_sort_values_keys.py
 - sorting dictionary based on keys & values using 'key=lambda' (user input taken)
+49. dict_banking_operations.py
+- a program demonstrating simple banking operations using dictionary : create account, deposit, withdraw and check balance
 
 🧠 Who This Is For
 - 💻 Students starting with Python from scratch
