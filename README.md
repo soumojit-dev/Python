@@ -117,7 +117,8 @@ Whether you're just getting started with Python or looking to polish your advanc
 - a program demonstrating simple banking operations using dictionary : create account, deposit, withdraw and check balance
 50. Error_handling_value&index_error.py
 - demonstrates error handling using try-except block for value and index error (user input taken)
-
+51. Error_handling_exception(e).py
+- demonstrates error handling using try-except block for exception (user input taken)
 🧠 Who This Is For
 - 💻 Students starting with Python from scratch
 - 🛠️ Developers brushing up on syntax or logic
