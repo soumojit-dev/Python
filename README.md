@@ -115,6 +115,8 @@ Whether you're just getting started with Python or looking to polish your advanc
 - sorting dictionary based on keys & values using 'key=lambda' (user input taken)
 49. dict_banking_operations.py
 - a program demonstrating simple banking operations using dictionary : create account, deposit, withdraw and check balance
+50. Error_handling_value&index_error.py
+- demonstrates error handling using try-except block for value and index error (user input taken)
 
 🧠 Who This Is For
 - 💻 Students starting with Python from scratch
