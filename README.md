@@ -119,6 +119,8 @@ Whether you're just getting started with Python or looking to polish your advanc
 - demonstrates error handling using try-except block for value and index error (user input taken)
 51. Error_handling_exception(e).py
 - demonstrates error handling using try-except block for exception (user input taken)
+52. freq_each_characters.py
+- finds frequency of each character in a sentence (Ignoring the spaces)
 🧠 Who This Is For
 - 💻 Students starting with Python from scratch
 - 🛠️ Developers brushing up on syntax or logic
