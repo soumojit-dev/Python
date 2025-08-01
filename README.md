@@ -123,6 +123,7 @@ Whether you're just getting started with Python or looking to polish your advanc
 - finds frequency of each character in a sentence (Ignoring the spaces)
 53. first_non_repeating_character.py
 - finds the first non repeating character in a sentence
+
 🧠 Who This Is For
 - 💻 Students starting with Python from scratch
 - 🛠️ Developers brushing up on syntax or logic
