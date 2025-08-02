@@ -123,6 +123,14 @@ Whether you're just getting started with Python or looking to polish your advanc
 - finds frequency of each character in a sentence (Ignoring the spaces)
 53. first_non_repeating_character.py
 - finds the first non repeating character in a sentence
+54. password_strength_checker.py
+- A strong password must:
+- 1. Be at least 8 characters long
+- 2. Contain at least one uppercase letter
+- 3. Contain at least one lowercase letter
+- 4. Contain at least one digit
+- 5. Contain at least one special character (like @, #, $, %, etc.)
+
 🧠 Who This Is For
 - 💻 Students starting with Python from scratch
 - 🛠️ Developers brushing up on syntax or logic
