@@ -130,6 +130,9 @@ Whether you're just getting started with Python or looking to polish your advanc
 - 3. Contain at least one lowercase letter
 - 4. Contain at least one digit
 - 5. Contain at least one special character (like @, #, $, %, etc.)
+55. isogram_checker.py
+- checks whether a given string is an isogram or not (an isogram is a word or phrase that has no repeating characters)
+
 
 🧠 Who This Is For
 - 💻 Students starting with Python from scratch
