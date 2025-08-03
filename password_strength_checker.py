@@ -1,6 +1,5 @@
 # Password Strength Checker
-# Problem:
-# Write a function is_strong_password(pwd) that checks if a password is strong. A strong password must:
+# A strong password must:
 # 1. Be at least 8 characters long
 # 2. Contain at least one uppercase letter
 # 3. Contain at least one lowercase letter
@@ -11,6 +10,7 @@ pwd = input("Enter your password: ")
 if len(pwd)<8:
     print("Minimum 8 characters needed")
 else:
+    # Flag Variables
     upper = False
     lower = False
     digit = False
