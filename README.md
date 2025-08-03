@@ -132,7 +132,8 @@ Whether you're just getting started with Python or looking to polish your advanc
 - 5. Contain at least one special character (like @, #, $, %, etc.)
 55. isogram_checker.py
 - checks whether a given string is an isogram or not (an isogram is a word or phrase that has no repeating characters)
-
+56. longest_palindromic_word.py
+- finds the longest palindromic word in a sentence (user input taken)
 
 🧠 Who This Is For
 - 💻 Students starting with Python from scratch
