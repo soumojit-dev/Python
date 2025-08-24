@@ -135,7 +135,9 @@ Whether you're just getting started with Python or looking to polish your advanc
 56. longest_palindromic_word.py
 - finds the longest palindromic word in a sentence (user input taken)
 57. guessing_game.py
-- simple guessing game which includes a correct guess word and number of chances to guess is also specified
+- simple guessing game which includes a correct guess word and number of chances to guess is also set
+58. custom_translator.py
+- basic translator that replaces all vowel letters with 's' in a word/sentence
 
 🧠 Who This Is For
 - 💻 Students starting with Python from scratch
